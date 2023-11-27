@@ -1,3 +1,17 @@
+""" PSEUDOCODE """
+# Define constants for course attributes: room number, instructor, meeting time.
+# Create a data dictionary to store course details keyed by course codes.
+# Define a list of attributes to display information about each course.
+
+# Define a function to format attribute labels into a more readable format (title case with spaces).
+# Define a function to retrieve course information for a given course number.
+# Define a function to print course information, looping through the desired attributes.
+
+#   Prompt the user to enter a course number.
+#   Call the function to print course information for the entered course number.
+
+
+""" PROGRAM START """
 # constants for attribute keys
 ROOM_NUMBER = 'room_number'
 INSTRUCTOR = 'instructor'
